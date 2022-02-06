@@ -1,5 +1,5 @@
 # Video_Call_Etiquette
-Tips and Suggestions for how to properly manage agile development team calls.
+Tips and Suggestions for how to properly manage agile development team calls.</br>
 Tips & Suggestions for Remote Video Calls:
 Video On
 This will help in creating a more personable sense of who is speaking during technical conversations remotely
