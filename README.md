@@ -1,8 +1,7 @@
 # Video_Call_Etiquette
 **Tips & Suggestions for Remote Video Calls:**</br>
-How to properly manage agile development team calls.</br>
-Video On
-This will help in creating a more personable sense of who is speaking during technical conversations remotely
+#Video On</br>
+This will help in creating a more personable sense of who is speaking during technical conversations remotely</br>
 It also shows a sense of respect to others time & work in the remote world
 I usually join meetings a minute or 2 early for light conversational chat between meeting attendees
 If the meeting group is larger than 2-4 people then I like to join 5-10 minutes prior to the original meeting times so that people are not waiting on us and have somebody to speak to as others trickle in to join the call.
