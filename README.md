@@ -1,6 +1,6 @@
 # Video_Call_Etiquette
 **Tips & Suggestions for Remote Video Calls:**</br>
-#Video On</br>
+# Video On</br>
 This will help in creating a more personable sense of who is speaking during technical conversations remotely</br>
 It also shows a sense of respect to others time & work in the remote world
 I usually join meetings a minute or 2 early for light conversational chat between meeting attendees
