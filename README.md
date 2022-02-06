@@ -20,10 +20,10 @@
 - Let others fully finish their thoughts and sentences
 - Negative emotion can be sparked by cutting off another video call attendee </br>
 # **Ask the Right Questions** </br>
-- If you are having difficulty managing a guest attendee, you can try calmly ask them questions about the details they were just reviewing in an attempt to get them to repeat their thoughts and rethink their thought process prior to proceeding forwards </br>
+- If you are having difficulty managing a guest attendee, you may want to calmly ask them questions about the details they were just reviewing in an attempt to get them to repeat their thoughts and rethink their thought process prior to proceeding forwards. </br>
 # **Be Respectful of Others Time** </br>
-- Keep in mind that others may have very busy & hectic days scheduled, just like you
-- Always ask if it is okay for your meeting to run over slightly if you intend to push the originally suggested timeframe </br>
+- Keep in mind that others may have very busy & hectic days scheduled, just like you.
+- Always ask if it is okay for your meeting to run over slightly if you intend to push the originally suggested timeframe. </br>
 # **No Shows** </br>
 - Always give no shows 5 minutes after the meeting has started prior to messaging them to see if they will make it to the meeting. Most of the time, the absent attendee will show up or reach out to you within this given timespan and you want to be respectful towards any difficulties that may arise while working remotely.
 - If the potential meeting guest does not show up after 5-10 minutes, leave the meeting and send them a polite message asking to reschedule with a positive connotation and an assumption that they have a good explanation for not showing up on time, as things happen. </br>
