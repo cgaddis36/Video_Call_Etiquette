@@ -27,7 +27,7 @@
 # **No Shows** </br>
 - Always give no shows 5 minutes after the meeting has started prior to messaging them to see if they will make it to the meeting. Most of the time, the absent attendee will show up or reach out to you within this given timespan and you want to be respectful towards any difficulties that may arise while working remotely.
 - If the potential meeting guest does not show up after 5-10 minutes, leave the meeting and send them a polite message asking to reschedule with a positive connotation and an assumption that they have a good explanation for not showing up on time, as things happen. </br>
-**Technical Difficulties** </br>
+# **Technical Difficulties** </br>
 - Speak up and make others aware of technical difficulties you may be having as they arise.
 - These things happen and everybody should be understanding, there will always be a solution to technical difficulties.
 - If you do not make others aware, nobody will know you are having an issue and this may cause the mood of the meeting to shift negatively. </br>
